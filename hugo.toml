@@ -4,7 +4,7 @@ title = 'Lanigan-Smith'
 theme = "hugo-bearcub"
 # https://themes.gohugo.io/themes/hugo-bearcub/
 
-copyright = "Dylan Lanigan-Smith 2024"
+copyright = "©2024"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
