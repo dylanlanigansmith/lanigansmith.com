@@ -18,7 +18,7 @@ enableRobotsTXT = true
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
-      madeWith = "(src)[https://github.com/dylanlanigansmith/lanigansmith.com]"
+      madeWith = "[src](https://github.com/dylanlanigansmith/lanigansmith.com)"
 
 # Setup syntax highlighting without inline styles. For more information about
 # why you'd want to avoid inline styles, see
