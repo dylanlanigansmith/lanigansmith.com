@@ -28,7 +28,7 @@ void test(){
 
 ```
 
-![Image](./img/error.png "Test Image")
+![Image](./error.png "Test Image")
 
 This won't work yet ^.
 
