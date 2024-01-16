@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on Lanigan-Smith</title>
+    <title>Blog on Dylan Lanigan-Smith</title>
     <link>https://lanigansmith.com/blog/</link>
-    <description>Recent content in Blog on Lanigan-Smith</description>
+    <description>Recent content in Blog on Dylan Lanigan-Smith</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <managingEditor>email: ZHlsYW5sYW5pZ2Fuc21pdGhbYXRdZ21haWwuY29t (Dylan Lanigan-Smith)</managingEditor>
     <webMaster>email: ZHlsYW5sYW5pZ2Fuc21pdGhbYXRdZ21haWwuY29t (Dylan Lanigan-Smith)</webMaster>
-    <copyright>Dylan Lanigan-Smith</copyright>
+    <copyright>Dylan Lanigan-Smith 2024</copyright>
     <lastBuildDate>Mon, 15 Jan 2024 18:42:01 -0500</lastBuildDate>
     <atom:link href="https://lanigansmith.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -36,7 +36,7 @@ void test(){
     size_t idx = 0;
     while(buf[idx] &gt; 0x4 &amp;&amp; idx &lt; buf_size )
         idx++;
-}</code></pre><p><img src="./img/error.png" alt="Image" title="Test Image"></p>
+}</code></pre><p><img src="./error.png" alt="Image" title="Test Image"></p>
 <p>This won&rsquo;t work yet ^.</p>
 <blockquote>
 <p>&ldquo;wow I love this post!&rdquo;</p>

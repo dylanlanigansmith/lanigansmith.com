@@ -1,6 +1,9 @@
 +++
 title = 'Is This Thing On?'
+author = "Dylan Lanigan-Smith"
 date = 2024-01-15T18:42:01-05:00
+description = "A test post"
+tags = ["blogtest","project"]
 draft = false
 +++
 

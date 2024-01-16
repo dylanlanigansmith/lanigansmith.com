@@ -4,14 +4,21 @@ title = 'Lanigan-Smith'
 theme = "hugo-bearcub"
 # https://themes.gohugo.io/themes/hugo-bearcub/
 
-copyright = "Dylan Lanigan-Smith"
+copyright = "Dylan Lanigan-Smith 2024"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
 
-
+[languages]
+  [languages.en]
+    title = "Dylan Lanigan-Smith"
+    languageName = "en-US 🇺🇸"
+    LanguageCode = "en-US"
+    contentDir = "content"
+    [languages.en.params]
+      madeWith = "(src)[https://github.com/dylanlanigansmith/lanigansmith.com]"
 
 # Setup syntax highlighting without inline styles. For more information about
 # why you'd want to avoid inline styles, see

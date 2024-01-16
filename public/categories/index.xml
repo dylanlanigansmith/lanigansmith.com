@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Lanigan-Smith</title>
+    <title>Categories on Dylan Lanigan-Smith</title>
     <link>https://lanigansmith.com/categories/</link>
-    <description>Recent content in Categories on Lanigan-Smith</description>
+    <description>Recent content in Categories on Dylan Lanigan-Smith</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <managingEditor>email: ZHlsYW5sYW5pZ2Fuc21pdGhbYXRdZ21haWwuY29t (Dylan Lanigan-Smith)</managingEditor>
     <webMaster>email: ZHlsYW5sYW5pZ2Fuc21pdGhbYXRdZ21haWwuY29t (Dylan Lanigan-Smith)</webMaster>
-    <copyright>Dylan Lanigan-Smith</copyright>
+    <copyright>Dylan Lanigan-Smith 2024</copyright>
     <atom:link href="https://lanigansmith.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
