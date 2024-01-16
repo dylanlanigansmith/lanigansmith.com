@@ -6,12 +6,15 @@
     <description>Recent content on Lanigan-Smith</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2024 19:14:26 -0500</lastBuildDate>
+    <managingEditor>email: ZHlsYW5sYW5pZ2Fuc21pdGhbYXRdZ21haWwuY29t (Dylan Lanigan-Smith)</managingEditor>
+    <webMaster>email: ZHlsYW5sYW5pZ2Fuc21pdGhbYXRdZ21haWwuY29t (Dylan Lanigan-Smith)</webMaster>
+    <copyright>Dylan Lanigan-Smith</copyright>
+    <lastBuildDate>Mon, 15 Jan 2024 18:42:01 -0500</lastBuildDate>
     <atom:link href="https://lanigansmith.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is This Thing On?</title>
       <link>https://lanigansmith.com/blog/isthisthingon/</link>
-      <pubDate>Mon, 15 Jan 2024 18:42:01 -0500</pubDate>
+      <pubDate>Mon, 15 Jan 2024 18:42:01 -0500</pubDate><author>email: ZHlsYW5sYW5pZ2Fuc21pdGhbYXRdZ21haWwuY29t (Dylan Lanigan-Smith)</author>
       <guid>https://lanigansmith.com/blog/isthisthingon/</guid>
       <description>Is This Thing On? This is a test of a blog / portfolio site I am throwing together.. after resisting the urge to make my own backend I chose Hugo as my framework, and decided to go with OpenLiteSpeed as the webserver as I&amp;rsquo;ve normally stuck with Apache/nginx in the past (I like it so far!).&#xA;Hopefully something more interesting than this comes along soon, but thanks for reading none the less!</description>
       <content:encoded><![CDATA[<h2 id="is-this-thing-on">Is This Thing On?</h2>

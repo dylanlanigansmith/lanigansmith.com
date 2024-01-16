@@ -1,8 +1,8 @@
-+++
-title = 'Dylan Lanigan-Smith'
-date = 2024-01-15T19:14:26-05:00
-draft = false
-+++
+---
+title: "Home"
+menu: "main"
+weight: 1
+---
 
 # Dylan Lanigan-Smith
 ---
