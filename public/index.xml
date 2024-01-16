@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lanigan-Smith</title>
+    <link>https://lanigansmith.com/</link>
+    <description>Recent content on Lanigan-Smith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 18:42:01 -0500</lastBuildDate>
+    <atom:link href="https://lanigansmith.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is This Thing On?</title>
+      <link>https://lanigansmith.com/blog/isthisthingon/</link>
+      <pubDate>Mon, 15 Jan 2024 18:42:01 -0500</pubDate>
+      <guid>https://lanigansmith.com/blog/isthisthingon/</guid>
+      <description>Is This Thing On? This is a test of a blog / portfolio site I am throwing together.. after resisting the urge to make my own backend I chose Hugo as my framework, and decided to go with OpenLiteSpeed as the webserver as I&amp;rsquo;ve normally stuck with Apache/nginx in the past (I like it so far!).&#xA;Hopefully something more interesting than this comes along soon, but thanks for reading none the less!</description>
+      <content:encoded><![CDATA[<h2 id="is-this-thing-on">Is This Thing On?</h2>
+<hr>
+<p>This is a test of a blog / portfolio site I am throwing together.. after resisting the urge to make my own backend I chose Hugo as my framework, and decided to go with OpenLiteSpeed as the webserver as I&rsquo;ve normally stuck with Apache/nginx in the past (I like it so far!).</p>
+<p>Hopefully something more interesting than this comes along soon, but thanks for reading none the less!</p>
+
+
+
+
+
+<pre tabindex="0"><code>//test of code blocks!
+
+void test(){  
+	constexpr size_t buf_size = 4096;
+    char* buf = new char[buf_size];
+    std::cin.read(buf, buf_size);
+
+    size_t idx = 0;
+    while(buf[idx] &gt; 0x4 &amp;&amp; idx &lt; buf_size )
+        idx++;
+}</code></pre><p><img src="./img/error.png" alt="Image" title="Test Image"></p>
+<p>This won&rsquo;t work yet ^.</p>
+<blockquote>
+<p>&ldquo;wow I love this post!&rdquo;</p>
+</blockquote>
+<p>ToDo:</p>
+<pre><code>- make content
+- make pretty
+- read Hugo docs
+</code></pre>
+<p><a href="https://lanigansmith.com" title="Really cool site!">Link</a></p>
+<h4 id="was-this-thing-on">Was this thing on?</h4>
+<hr>
+<p><em>I Guess We Found Out.</em> <strong>Theme test</strong></p>
+<hr>
+<p>That&rsquo;s all folks.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

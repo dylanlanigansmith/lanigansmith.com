@@ -1,0 +1,4 @@
+baseURL = 'https://lanigansmith.com'
+languageCode = 'en-us'
+title = 'Lanigan-Smith'
+theme = "hugo-bearcub"
