@@ -22,7 +22,7 @@ weight: 1
 	- the docs are great! this thing can do a lot more than I thought
 	- who is this Hugo guy anyways? have we met?
 
-Hopefully the gumption is soon found, I can make it not say my name 20 times on the homepage, finally memorize markdown, and some blog posts can go viral on ycombinator
+Hopefully the gumption is soon found to work on this, so I can make it not say my name 20 times on the homepage, finally memorize markdown, and some blog posts can go viral on ycombinator
 
 Not too much to ask is it?
 
