@@ -1,6 +1,7 @@
 {
     "name": "Dylan Lanigan-Smith",
     "short_name": "DLS",
+    "description": "why do you want my site as a PWA",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
